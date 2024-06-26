@@ -30,7 +30,7 @@ If you are attempting to run this experiment from our Github repository, we sugg
 
 
 ## Software Required
-To create underground particle transport simulation data, one will need access to the dfnWorks simulation suite, available for download [here](https://dfnworks.lanl.gov/).
+To create underground particle transport simulation data, one will need access to the dfnWorks simulation suite, available for download [here](https://dfnworks.lanl.gov/). The dfnWorks data files are included in this repository.
 
 ## Citation
 Alexander C. Murph, Justin D. Strait, Kelly R. Moran, Jeffrey D. Hyman, Hari S. Viswanathan, & Philip H. Stauffer. (2023). Sensitivity Analysis in the Presence of Intrinsic Stochasticity for Discrete Fracture Network Simulations.  _In Review._ [Preprint.](https://arxiv.org/abs/2312.04722)
