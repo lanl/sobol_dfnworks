@@ -24,7 +24,7 @@ We suggest cloning this repository into a folder entitled GitHub in your home di
 
 The figures in the paper can be recreated by running the corresponding scripts in these directory (for instance, figure_4.R creates the visual in Figure 4).  All the data from dfnWorks is pre-compiled into .Rdata files.  This is due to the very large size of a typical dfnWorks output; we compiled this data using scripts in this repository, removing extraneous output for space considerations.  The raw output can be produced using the dfnWorks software suite, using the files in dfnworks_drivers and test_data.  The corresponding seeds a specific inputs can be found in these directories.
 
-To recreate the entire experiment from these files, first run all the figure_**.R files in eda, then these same files in gp_analysis, then these same files in sobol_indices.  We suggest using an HPC environment for the files in this last directory.
+To recreate the entire experiment from these files, first run all the figure_##.R files in eda, then these same files in gp_analysis, then these same files in sobol_indices.  We suggest using an HPC environment for the files in this last directory.
 
 If you are attempting to run this experiment from our Github repository, we suggest getting the data files from our Zenodo repository.  Github has insufficient space for the data, so these data are not present.
 
