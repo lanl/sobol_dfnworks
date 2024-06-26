@@ -1,7 +1,6 @@
 dfnworks_drivers/compiled_data/*
 test_data/compiled_data/*
 eda/sparse_lhs_normalized_data_woOutliers.Rdata
-eda/sparse_lhs_normalized_data_woOutliers.Rdata
 GP_analysis/compiled_testing_data_woOutliers.Rdata
 GP_analysis/hetGP_model_final.Rdata
 GP_analysis/sparse_lhs_normalized_data_woOutliers.Rdata
